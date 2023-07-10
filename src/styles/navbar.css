@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: midnightblue;
+    padding: 10px 0px;
+}
+.nav_links li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+.nav_links a{
+    color: white;
+    text-decoration: none;
+}

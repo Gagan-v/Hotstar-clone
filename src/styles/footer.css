@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgb(0, 32,87);
+    padding: 20px 0px;
+    text-align: center;
+}
+.footer ul{
+    padding: 0;
+}
+.desc p{
+    color: gainsboro;
+}

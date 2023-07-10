@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    margin: 30px auto;
+    background-color: gainsboro;
+    width: 800px;
+    align-items: center;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px 10px;
+}
+.form_input input{
+   border: none;
+   height: 30px;
+   width: 250px;
+   margin: 10px;
+   border-radius: 10px;
+   outline: none;
+}
+.form_input button{
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 2px;
+}

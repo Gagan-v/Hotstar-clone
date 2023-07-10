@@ -1,0 +1,67 @@
+{
+  "favourites": [
+    {
+      "title": "The Boys",
+      "Genre": "Action",
+      "language": "Eng",
+      "Rating": 4.5,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "Genre": "Sci-fi",
+      "language": "Ger",
+      "Rating": 4,
+      "id": 2
+    },
+    {
+      "title": "The Offce",
+      "Genre": "Sitcom",
+      "language": "Eng",
+      "Rating": 4.5,
+      "id": 3
+    },
+    {
+      "title": "Friends",
+      "Genre": "Comedy",
+      "language": "Eng",
+      "Rating": 5,
+      "id": 4
+    },
+    {
+      "title": "Berserker",
+      "Genre": "Action",
+      "language": "Jap",
+      "Rating": 5,
+      "id": 5
+    },
+    {
+      "title": "jojo",
+      "Genre": "action",
+      "language": "jap",
+      "Rating": "10",
+      "id": 6
+    },
+    {
+      "title": "one piece",
+      "Genre": "adventure",
+      "language": "jap",
+      "Rating": "10",
+      "id": 7
+    },
+    {
+      "title": "demon salyer 3",
+      "Genre": "action",
+      "language": "jap",
+      "Rating": "5",
+      "id": 8
+    },
+    {
+      "title": "DBZ",
+      "Genre": "Action",
+      "language": "Jap",
+      "Rating": "10",
+      "id": 9
+    }
+  ]
+}
